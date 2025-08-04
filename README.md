@@ -1,6 +1,6 @@
 # Maxminplus_toolbox
 
-A Matlab attempt to define the algebraic structure of Max-min-plus algebra. These is the completed max-plus algebra dually isomorphic to the completed min-plus algebra. 
+A Matlab attempt to define the algebraic structure of Max-min-plus algebra. This is the completed max-plus algebra, dually isomorphic to the completed min-plus algebra. 
 
 ## Instructions for installation
 
